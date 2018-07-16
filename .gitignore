@@ -1,3 +1,8 @@
+# Own Files
+/data
+todo.txt
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
