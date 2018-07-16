@@ -1,2 +1,2 @@
 # CaptionAugmentation
-Data augmentation for (image) captioning
+Data augmentation script for (image) captioning with [BoeNet](https://github.com/PawelBoe/BoeNet).
